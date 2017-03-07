@@ -7,7 +7,7 @@ library(xlsx)
 
 
 ui <- dashboardPage(
-  dashboardHeader(title = "Phoenix - On Demand SKU Health Check", titleWidth = 375),
+  dashboardHeader(title = "On Demand SKU Health Check", titleWidth = 375),
   dashboardSidebar(
     width = 375,
     
